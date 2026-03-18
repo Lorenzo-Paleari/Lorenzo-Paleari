@@ -1,5 +1,5 @@
 # 💫 About Me:
-Just a human trying to convince the computer to do what I mean, not what I say
+Just a human trying to convince the computer to be my friend
 
 
 # 💻 Tech Stack:
